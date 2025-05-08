@@ -1,0 +1,1 @@
+This folder contains the the files from which data is loaded into Postgres using the SQL script titled '201505995_GEOG3630.sql'. These include raw data from the sources listed in Table 1, and then pivoted where needed. 
